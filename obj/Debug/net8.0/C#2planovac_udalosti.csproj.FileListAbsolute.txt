@@ -1,0 +1,14 @@
+C:\Users\mo073268\Downloads\CSharp1\csharp2\C#2planovac_udalosti\obj\Debug\net8.0\C#2planovac_udalosti.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mo073268\Downloads\CSharp1\csharp2\C#2planovac_udalosti\obj\Debug\net8.0\C#2planovac_udalosti.AssemblyInfoInputs.cache
+C:\Users\mo073268\Downloads\CSharp1\csharp2\C#2planovac_udalosti\obj\Debug\net8.0\C#2planovac_udalosti.AssemblyInfo.cs
+C:\Users\mo073268\Downloads\CSharp1\csharp2\C#2planovac_udalosti\obj\Debug\net8.0\C#2planovac_udalosti.csproj.CoreCompileInputs.cache
+C:\Users\mo073268\Downloads\CSharp1\csharp2\C#2planovac_udalosti\bin\Debug\net8.0\C#2planovac_udalosti.exe
+C:\Users\mo073268\Downloads\CSharp1\csharp2\C#2planovac_udalosti\bin\Debug\net8.0\C#2planovac_udalosti.deps.json
+C:\Users\mo073268\Downloads\CSharp1\csharp2\C#2planovac_udalosti\bin\Debug\net8.0\C#2planovac_udalosti.runtimeconfig.json
+C:\Users\mo073268\Downloads\CSharp1\csharp2\C#2planovac_udalosti\bin\Debug\net8.0\C#2planovac_udalosti.dll
+C:\Users\mo073268\Downloads\CSharp1\csharp2\C#2planovac_udalosti\bin\Debug\net8.0\C#2planovac_udalosti.pdb
+C:\Users\mo073268\Downloads\CSharp1\csharp2\C#2planovac_udalosti\obj\Debug\net8.0\C#2planovac_udalosti.dll
+C:\Users\mo073268\Downloads\CSharp1\csharp2\C#2planovac_udalosti\obj\Debug\net8.0\refint\C#2planovac_udalosti.dll
+C:\Users\mo073268\Downloads\CSharp1\csharp2\C#2planovac_udalosti\obj\Debug\net8.0\C#2planovac_udalosti.pdb
+C:\Users\mo073268\Downloads\CSharp1\csharp2\C#2planovac_udalosti\obj\Debug\net8.0\C#2planovac_udalosti.genruntimeconfig.cache
+C:\Users\mo073268\Downloads\CSharp1\csharp2\C#2planovac_udalosti\obj\Debug\net8.0\ref\C#2planovac_udalosti.dll
