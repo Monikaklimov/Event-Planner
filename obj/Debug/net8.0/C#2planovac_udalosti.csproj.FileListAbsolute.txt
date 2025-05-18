@@ -12,3 +12,4 @@ C:\Users\mo073268\Downloads\CSharp1\csharp2\C#2planovac_udalosti\obj\Debug\net8.
 C:\Users\mo073268\Downloads\CSharp1\csharp2\C#2planovac_udalosti\obj\Debug\net8.0\C#2planovac_udalosti.pdb
 C:\Users\mo073268\Downloads\CSharp1\csharp2\C#2planovac_udalosti\obj\Debug\net8.0\C#2planovac_udalosti.genruntimeconfig.cache
 C:\Users\mo073268\Downloads\CSharp1\csharp2\C#2planovac_udalosti\obj\Debug\net8.0\ref\C#2planovac_udalosti.dll
+c:\Users\mo073268\Downloads\CSharp1\csharp2\C#2planovac_udalosti\obj\Debug\net8.0\C#2planovac_udalosti.sourcelink.json
