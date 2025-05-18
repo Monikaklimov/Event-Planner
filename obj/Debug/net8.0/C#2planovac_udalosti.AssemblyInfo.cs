@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("C#2planovac_udalosti")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b864f8acc362046cde69cbf4d7df433e378fa49b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6e91bda4d257540e5546303160808fdedb6f64d8")]
 [assembly: System.Reflection.AssemblyProductAttribute("C#2planovac_udalosti")]
 [assembly: System.Reflection.AssemblyTitleAttribute("C#2planovac_udalosti")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
